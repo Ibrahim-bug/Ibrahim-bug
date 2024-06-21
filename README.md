@@ -13,7 +13,6 @@ My name is Ibrahim and I'm a computer science graduate. Here's some info about m
 - Web development.
 - Cloud Computing.
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Azure
 - 📫 How to reach me: ibrahimkashif97@gmail.com
 

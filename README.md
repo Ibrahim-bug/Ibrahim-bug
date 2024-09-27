@@ -26,27 +26,9 @@ My name is Ibrahim and I'm a computer science graduate. Here's some info about m
 
 <!-- <a href="https://github.com/TurrabH" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurrabH&langs_count=10&title_color=6366f1&text_color=a855f7&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
-<p align="center"><a href="http://www.github.com/TurrabH"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TurrabH&stroke=a855f7&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=a855f7&currStreakLabel=6366f1&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a></p>
-
-- <b>Frontend portfolio(React & Angular)</b>
-  - [Resigna](https://github.com/TurrabH/Resigna)
-  - [Akhrajaat.pk](https://github.com/TurrabH/Akhrajaat.pk)
-  - [Cryptoverse](https://github.com/TurrabH/Cryptoverse)
-
-- <b>Backend portfolio(.NET Core, .NET Framework)</b>
-  - [Rapid Pay Api](https://github.com/TurrabH/RapidApi)
-  - [EcommerceProject](https://github.com/TurrabH/nopCommerce)
- 
-- <b>Desktop Application(.NET Core, .NET Framework)</b>
-  - [FastFood-POS](https://github.com/TurrabH/Desktop-POS)
-  - [Banking-POS](https://github.com/TurrabH/BankingPOS)
- 
-- <b>Cross-platform Mobile App Dev(.NET Maui)</b>
-  - [GamePortal](https://github.com/TurrabH/GamePortal)
-  - [SpaceXHistory](https://github.com/TurrabH/SpaceXHistory)
 
 ### Connect with me:
-Reach me out at [sturrabhussain@gmail.com](mailto:sturrabhussain@gmail.com?subject=Got%20an%20opportunity%20for%20you)
+Reach me out at [ibrahimkashif97@gmail.com](mailto:ibrahimkashif97@gmail.com?subject=Got%20an%20opportunity%20for%20you)
 <p align="center">
  سلام
 </p>

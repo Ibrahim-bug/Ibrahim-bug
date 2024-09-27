@@ -13,7 +13,7 @@ My name is Ibrahim and I'm a computer science graduate. Here's some info about m
 
 # <p align="center">☮ Hey, welcome to my codespace!</p>
 
-### <p align="center">I am senior software engineer, a Comp Sci graduate from PU. I like to code, and travel.</p>
+### <p align="center">I am software engineer, a Comp Sci graduate from UMT. I like to code, and travel.</p>
 
 <a align="center"><p align="center">![](https://komarev.com/ghpvc/?username=TurrabH)</p></a>
 <br/> 

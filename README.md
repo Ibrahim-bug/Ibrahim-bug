@@ -2,12 +2,6 @@
 
 My name is Ibrahim and I'm a computer science graduate. Here's some info about me!
 
-⚡ Work experience:
-
-- Software Engineer at Devsinc - Full-stack development. [May 2023 - Present]
-- Junior Software Engineer at Amigo Software - Front-End Development. [Sep 2022 - Jan 2023]
-- Software Engineer Intern at Amigo Software - Front-End Development. [Aug 2021 - Aug 2022]
-
 🌱 Interests:
 
 - Web development.
